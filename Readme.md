@@ -1,20 +1,20 @@
-# 📊 KPI Vision
+# KPI Vision
 
 Aplicación de escritorio para generar dashboards de KPIs a partir de archivos CSV de ventas o leads.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 - Carga de CSV
 - KPIs automáticos
 - Gráficos interactivos
 - Interfaz gráfica
 - Aplicación .exe
 
-## 🛠️ Tecnologías
+##  Tecnologías
 - Python
 - PySide6
 - Plotly
 - Pandas
 
-## ▶️ Uso
+##  Uso
 ```bash
 python index.py
